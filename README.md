@@ -8,6 +8,14 @@ Este é um projeto web simples para organizar e sortear amigos secretos. Ele per
 
 ---
 
+- ## 📌 Link
+
+Você pode testar o projeto funcionando direto no navegador:  
+
+👉 https://leonardosilvapy.github.io/amigo-secreto
+
+---
+
 ## 🛠️ **Funcionalidades**
 
 - **Adicionar Amigos**: O usuário pode adicionar o nome de amigos à lista de amigos secretos. ✨
@@ -22,11 +30,4 @@ Este é um projeto web simples para organizar e sortear amigos secretos. Ele per
 - **HTML5**: Estrutura básica da página web. 🌐
 - **CSS3**: Estilização da página e design responsivo. 🎨
 - **JavaScript**: Lógica para adicionar amigos, exibir lista e realizar o sorteio. 🤖
-
----
-
-- ## 📌 Link
-
-Você pode testar o projeto funcionando direto no navegador:  
-👉 https://leonardosilvapy.github.io/amigo-secreto
 

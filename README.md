@@ -1,3 +1,4 @@
+
 # 🎉 **Amigo Secreto**
 
 Este é um projeto web simples para organizar e sortear amigos secretos. Ele permite que os usuários:
@@ -21,3 +22,5 @@ Este é um projeto web simples para organizar e sortear amigos secretos. Ele per
 - **HTML5**: Estrutura básica da página web. 🌐
 - **CSS3**: Estilização da página e design responsivo. 🎨
 - **JavaScript**: Lógica para adicionar amigos, exibir lista e realizar o sorteio. 🤖
+=======
+
